@@ -11,3 +11,4 @@ Personal note app
 
 ## GitHub Hosted 
 https://trueamrit.github.io/ 
+(May expire after some time)
